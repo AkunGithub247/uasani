@@ -110,8 +110,8 @@
             "prerender": false,
             "ssr": false,
             "browserTarget": "Firebase:build:production",
-            "firebaseProject": "uasintan",
-            "firebaseHostingSite": "uasintan"
+            "firebaseProject": "uasani-64f1a",
+            "firebaseHostingSite": "uasani-64f1a"
           }
         }
       }

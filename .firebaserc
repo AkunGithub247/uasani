@@ -20,9 +20,23 @@
           "uasintan"
         ]
       }
+    },
+    "uasguntur": {
+      "hosting": {
+        "Firebase": [
+          "uasguntur"
+        ]
+      }
+    },
+    "uasani-64f1a": {
+      "hosting": {
+        "Firebase": [
+          "uasani-64f1a"
+        ]
+      }
     }
   },
   "projects": {
-    "default": "uasintan"
+    "default": "uasani-64f1a"
   }
 }
